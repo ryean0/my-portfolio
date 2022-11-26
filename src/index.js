@@ -13,7 +13,7 @@ import { createBrowserRouter, createRoutesFromElements, RouterProvider, Route } 
 const router = createBrowserRouter(
   [
     {
-      path:"/about-me",
+      path:"/my-portfolio",
       element: <Home/>,
       children: [
         {
