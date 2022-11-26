@@ -7,7 +7,7 @@ import HomeRoundedIcon from '@mui/icons-material/HomeRounded';
 export default function HomeButton(props) {
     let navigate = useNavigate();
     const redirect = () => {
-        let path = `/about-me/${props.path}`;
+        let path = `/my-portfolio/${props.path}`;
         navigate(path)
     }
     return (

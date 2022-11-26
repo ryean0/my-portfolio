@@ -69,7 +69,7 @@ export default function Home(props) {
             }}
         >
             <Dashboard/>
-            {location.pathname === "/about-me/" ? <HomeName/> : null}
+            {location.pathname === "/my-portfolio/" ? <HomeName/> : null}
             <Outlet/>
         </Box>
     </ThemeProvider>);
