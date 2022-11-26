@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.803a6f81.css",
+    "main.js": "/my-portfolio/static/js/main.52d89d09.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/computer.png": "/my-portfolio/static/media/computer.ccf6d7dc3cca2df84eec.png",
+    "static/media/background.jpg": "/my-portfolio/static/media/background.ea3a8bcd556dc6a767ba.jpg",
+    "static/media/Logos.png": "/my-portfolio/static/media/Logos.9aaed6502a5c67bcd9e6.png",
+    "static/media/peach.png": "/my-portfolio/static/media/peach.be74f7fa9b13d1ce67c5.png",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.811fd1576bae45bd50a9.pdf",
+    "static/media/profilepic.png": "/my-portfolio/static/media/profilepic.09465017c23c2e871634.png",
+    "static/media/bruincreates.png": "/my-portfolio/static/media/bruincreates.e97aba2384ca2e690c44.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.8ed3dfbdab5d570bfaef.png",
+    "static/media/email.png": "/my-portfolio/static/media/email.0afce1c933f24d3c7b8a.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.0910d67d7fdd0776cd49.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.803a6f81.css.map": "/my-portfolio/static/css/main.803a6f81.css.map",
+    "main.52d89d09.js.map": "/my-portfolio/static/js/main.52d89d09.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.803a6f81.css",
+    "static/js/main.52d89d09.js"
+  ]
+}
