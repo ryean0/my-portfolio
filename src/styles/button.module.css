@@ -1,0 +1,49 @@
+:root {
+  --colour-black: #2f294b;
+  --colour-white: #ffffff;
+  --font-family: 'Ubuntu Mono', monospace;
+  --font-size: 100%;
+  --font-weight: 600%
+}
+
+button,
+.button-dashboard{
+  color: var(--colour-black);
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  font-weight: 400%;
+  --button: #d9d4d6;
+  --button-hover: #eebbdc;
+  --button-active:  hsl(346, 100%, 80%);
+  --button-visited: hsl(346, 100%, 70%);
+  --button-colour: var(--colour-black);
+   --button-border: var(--colour-black);
+}
+
+button {
+  border-radius: 50px;
+  padding: .6rem 2.2rem;
+  color: var(--button-colour);
+  opacity: 0.75;
+  font-weight: 500;
+  font-size: 35px;
+  transition: all 0.3s ease-in-out;
+  background: var(--button);
+  border: solid 1px var(--button-border);
+  box-shadow: inset 0 0 0 2px var(--colour-white);
+  margin-right: 1em;
+}
+
+button:hover {
+  cursor: pointer;
+  background: var(--button-hover);
+  box-shadow: inset 0 0 0 4px var(--colour-white);
+}
+
+button:active {
+  background: var(--button-active);
+}
+
+button:visited {
+  background: var(--button-visited);
+}
