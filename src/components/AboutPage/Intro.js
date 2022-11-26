@@ -78,7 +78,7 @@ export const IntroMobile = () => {
         height: "90%"
     }}>
         <CardContent sx={{ display: "flex", flexDirection: "column"}}>
-            <Typography variant="body2" align="center" sx={{fontSize: 23}}>
+            <Typography variant="body2" align="center" sx={{fontSize: 20}}>
             • Fullstack web developer based in Los Angeles, California <br></br> 
             • 2-3 years of experience with frontend & backend development 
             </Typography>
@@ -93,7 +93,7 @@ export const IntroMobile = () => {
             image={Logos}
             sx = {{width: "50%", alignSelf: "center", paddingBottom: "10px"  }}
         />
-        <Box sx={{display: "flex", justifyContent: "center", paddingBottom: "2.5vh", marginRight: "-5px"}}>
+        <Box sx={{display: "flex", justifyContent: "center", marginRight: "-5px"}}>
             <Card sx={{
                     border: '4px solid #98e39d',
                     borderRadius: '100px',

@@ -58,7 +58,7 @@ export function ProjectsDesktop() {
 export function ProjectsMobile({id}) {
   return (
     <Box id={id} sx={{
-      height: "115vh",
+      height: "125vh",
       display: "flex",
       flexDirection: "column",
       justifyContent: "flex-start",

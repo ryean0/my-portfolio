@@ -53,7 +53,7 @@ export const BioMobile = () => {
       opacity: "0.8",
       maxHeight: "70%",
       maxWidth: "88%",
-      height: "50%"
+      height: "60%"
     }}>
         <CardContent sx={{display: "flex",
         flexDirection: "column", justifyContent: "center"}}>

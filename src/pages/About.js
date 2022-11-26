@@ -31,7 +31,7 @@ export function AboutMobile({id}) {
   return (
     <div>
       <Box id={id} sx={{
-        height: "125vh",
+        height: "150vh",
         display: "flex",
         flexDirection: "column",
         justifyContent: "flex-start",
